@@ -43,9 +43,10 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/img/capa-friends.jpg"); /*gradiente cria uma camada em cima da imagem e sempre precisa duas cores*/
-    height: 80vh;
 
+    
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../img/capa-friends.jpg"); /*gradiente cria uma camada em cima da imagem e sempre precisa duas cores*/
+    height:80vh;
     background-size: cover;
 
     display: flex;
